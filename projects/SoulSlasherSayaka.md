@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: "Soul Slasher Sayaka"
 categories: [project]
 description: description test2

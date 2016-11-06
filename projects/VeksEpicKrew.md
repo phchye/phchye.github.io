@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: "Vek's Epic Krew"
 categories: [project]
 description: description test1
