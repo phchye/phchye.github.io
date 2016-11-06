@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: "Test project1 title"
 categories: [project]
 ---
