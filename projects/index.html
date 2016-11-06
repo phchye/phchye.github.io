@@ -7,12 +7,12 @@ title: List of Projects
 	<ul class="project">
 
 	  {% for page in site.pages %}
-		  {% if page.categories contains 'project' %}
+		  
 			<div class="item">
 			  <h3>{{page.title}}</h3>
 			  <p>{{page.description}}</p>  
 			</div>
-		  {% endif %}
+		  
 		{% endfor %}
 	</ul>
 	</div>
