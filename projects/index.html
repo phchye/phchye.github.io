@@ -6,7 +6,7 @@ title: Projects
 	<div class="projects">
 	<ul class="project">
 	  {% assign sorted_pages = site.pages | sort:"order" %}
-	  {% for page in sorted_page %}
+	  {% for page in sorted_pages %}
 		  {% if page.categories contains 'project' %}
 			<li><span>text</span> &raquo; <a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
 		  {% endif %}
