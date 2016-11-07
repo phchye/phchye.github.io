@@ -1,3 +1,5 @@
 name: PH Chye
 markdown: kramdown
 categories: [project]
+# Google services
+google_analytics: UA-86969810-1
