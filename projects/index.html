@@ -9,7 +9,7 @@ title: Projects | PH Chye
 	  {% assign sorted_pages = site.pages | sort:"order" %}
 	  {% for page in sorted_pages %}
 		  {% if page.categories contains 'project' %}
-			<li><span>{{ page.title}}</span> &raquo; <a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></li>
+			<li><span>{{ page.title}}</span> &raquo; <a href="{{ page.url }}" title="{{ page.title }}">{{ More }}</a></li>
 		  {% endif %}
 		{% endfor %}
 	</ul>
