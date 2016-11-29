@@ -2,7 +2,7 @@
 layout: project
 title: "Soul Slasher Sayaka"
 categories: [project]
-description: description test2
+link: "https://games.digipen.edu/games/soul-slasher-sayaka"
 order: 2
 ---
-Under construction2
+Empty2
