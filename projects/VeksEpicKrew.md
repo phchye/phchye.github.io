@@ -5,5 +5,5 @@ categories: [project]
 description: description test1
 order: 1
 ---
-<h2>Under construction1</h2>
-Link
+<h2>{{ title }}</h2>
+<a href="https://games.digipen.edu/games/vek-s-epic-krew">Link</a>
