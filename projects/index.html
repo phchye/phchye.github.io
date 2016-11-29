@@ -3,20 +3,19 @@ layout: default
 title: Projects | Chye Ping Hwa
 ---
 	<h1>Projects</h1>
-	<p>Note: This page is still under construction.</p>
 	<div class="projects">
-	<ul class="projects">
+	<!-- <ul class="projects"> -->
 	  {% assign sorted_pages = site.pages | sort:"order" %}
 	  {% for page in sorted_pages %}
 		  {% if page.categories contains 'project' %}
 			<div id="{{ page.title }}">
-				<h3>{{ page.title }} </h3>
-				
+				<h2>{{ page.title }} </h2>
 				{{ page.content }}
-				<a href="{{ page.link }}">Link</a>
+				<a href="{{ page.link }}" target="_blank">More Information</a>
 			</div>
 			<!--<li><span>{{ page.title}}</span> &raquo; <a href="{{ page.url }}" title="{{ page.title }}">{{ More }}</a></li>-->
 		  {% endif %}
 		{% endfor %}
-	</ul>
+	<!-- </ul> -->
 	</div>
+	<p><small>Note: This page is still under construction.</small></p>

@@ -5,4 +5,4 @@ categories: [project]
 link: "https://games.digipen.edu/games/soul-slasher-sayaka"
 order: 2
 ---
-Empty2
+<p>Empty2</p>
