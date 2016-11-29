@@ -9,7 +9,9 @@ title: Projects | Chye Ping Hwa
 	  {% assign sorted_pages = site.pages | sort:"order" %}
 	  {% for page in sorted_pages %}
 		  {% if page.categories contains 'project' %}
-			<li><span>{{ page.title}}</span> &raquo; <a href="{{ page.url }}" title="{{ page.title }}">{{ More }}</a></li>
+			<!--<li><span>{{ page.title}}</span> &raquo; <a href="{{ page.url }}" title="{{ page.title }}">{{ More }}</a></li>-->
+			<!--{% assign stripped_name = post.url | remove_first:'/'-->
+			{% include_relative page.url %}
 		  {% endif %}
 		{% endfor %}
 	</ul>
