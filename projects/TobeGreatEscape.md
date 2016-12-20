@@ -7,7 +7,7 @@ linktext: "Kongregate"
 order: 5
 ---
 
-<a href="https://www.youtube.com/watch?v=2iZBAgvvlEA">
+<a href="https://www.youtube.com/watch?v=2iZBAgvvlEA" target="_blank">
 <img class="one" src="http://img.youtube.com/vi/2iZBAgvvlEA/maxresdefault.jpg" alt="Tobe's Great Escape Trailer">
 </a>
 

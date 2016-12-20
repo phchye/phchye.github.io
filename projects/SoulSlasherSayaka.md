@@ -7,7 +7,7 @@ linktext: "DigiPen Game Gallery"
 order: 2
 ---
 
-<a href="https://www.youtube.com/watch?v=60PabkRCZ2k">
+<a href="https://www.youtube.com/watch?v=60PabkRCZ2k" target="_blank">
 <img class="one" src="http://img.youtube.com/vi/60PabkRCZ2k/maxresdefault.jpg" alt="Soul Slasher Sayaka Trailer">
 </a>
 

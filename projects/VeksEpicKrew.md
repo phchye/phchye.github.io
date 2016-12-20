@@ -7,7 +7,7 @@ linktext: "DigiPen Game Gallery"
 order: 1
 ---
 
-<a href="https://www.youtube.com/watch?v=0cmthVNCA4c">
+<a href="https://www.youtube.com/watch?v=0cmthVNCA4c" target="_blank">
 <img class="one" src="http://img.youtube.com/vi/0cmthVNCA4c/maxresdefault.jpg" alt="Vek's Epic Krew Trailer">
 </a>
 

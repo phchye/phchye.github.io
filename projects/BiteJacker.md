@@ -7,7 +7,7 @@ linktext: "Kongregate"
 order: 3
 ---
 
-<a href="https://www.youtube.com/watch?v=lgskCLFrb1o">
+<a href="https://www.youtube.com/watch?v=lgskCLFrb1o" target="_blank">
 <img class="one" src="http://img.youtube.com/vi/lgskCLFrb1o/maxresdefault.jpg" alt="BiteJacker Trailer">
 </a>
 
